@@ -1,0 +1,14 @@
+/* App.css */
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.dark-background {
+    color: rgb(53, 50, 50);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}

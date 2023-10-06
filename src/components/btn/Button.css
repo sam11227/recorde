@@ -1,0 +1,13 @@
+.my-button {
+    background-color: #007bff; /* Change to your desired background color */
+    color: #fff; /* Change to your desired text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none;
+    border-radius: 5px; /* Adjust border-radius as needed */
+    cursor: pointer;
+    font-size: 16px; /* Adjust font size as needed */
+  }
+  
+  .my-button:hover {
+    background-color: #0056b3; /* Change to a darker shade for hover effect */
+  }
